@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1613828349 source:c:\users\florin\desktop\aplicatii c\functii\ex. 100\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\Florin\Desktop\Aplicatii C\Calculator simplu\functii.h"
+
+1606388314 c:\users\florin\desktop\aplicatii c\calculator simplu\functii.h
+	"C:\Users\Florin\Desktop\Aplicatii C\Calculator Geometric\systemColor.c"
+
+1608388724 c:\users\florin\desktop\aplicatii c\calculator geometric\systemcolor.c
+

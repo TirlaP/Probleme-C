@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1613910723 source:c:\users\florin\desktop\aplicatii c\functii\ex. 102\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functii.h"
+
+1613910099 source:c:\users\florin\desktop\aplicatii c\functii\ex. 102\functii.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1613910257 c:\users\florin\desktop\aplicatii c\functii\ex. 102\functii.h
+
