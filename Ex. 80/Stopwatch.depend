@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608387515 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\beginner\stopwatch\main.c
+	"functii.h"
+
+1608388962 c:\users\florin\desktop\aplicatii c\50 coding ideas\beginner\stopwatch\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1608389018 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\beginner\stopwatch\menu.c
+
+1608388998 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\beginner\stopwatch\stopwatch.c
+	"functii.h"
+
+1608388724 c:\users\florin\desktop\aplicatii c\calculator geometric\systemcolor.c
+
