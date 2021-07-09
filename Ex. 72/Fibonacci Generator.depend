@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608230721 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\fibonacci generator\main.c
+	<stdio.h>
+	<stdlib.h>
+

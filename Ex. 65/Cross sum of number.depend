@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1608304734 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\cross sum of number\menu.c
+
+1608304566 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\cross sum of number\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functie.h"
+
+1608304529 c:\users\florin\desktop\aplicatii c\50 coding ideas\cross sum of number\functie.h
+	"C:\Users\Florin\Desktop\Aplicatii C\Calculator Geometric\systemColor.c"
+
+1606388171 c:\users\florin\desktop\aplicatii c\calculator geometric\systemcolor.c
+
+1608304794 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\cross sum of number\sumacifre.c
+

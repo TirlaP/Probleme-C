@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608299068 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\number guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii.h"
+
+1606388171 c:\users\florin\desktop\aplicatii c\calculator geometric\systemcolor.c
+
+1608299011 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\number guessing game\menu.c
+
+1608299244 c:\users\florin\desktop\aplicatii c\50 coding ideas\number guessing game\functii.h
+	"C:\Users\Florin\Desktop\Aplicatii C\Calculator Geometric\systemColor.c"
+
+1608299011 c:\users\florin\desktop\aplicatii c\50 coding ideas\number guessing game\menu.c
+
+1608299631 source:c:\users\florin\desktop\aplicatii c\50 coding ideas\number guessing game\game.c
+
