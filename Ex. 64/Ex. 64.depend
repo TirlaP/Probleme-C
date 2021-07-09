@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610651987 source:c:\users\florin\desktop\aplicatii c\functii\ex. 64\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
